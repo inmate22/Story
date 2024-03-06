@@ -1,1 +1,2 @@
 This is a test chapter for Git Github and Version Control.
+This is the learning for understanding branching.
